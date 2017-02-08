@@ -2,3 +2,4 @@
 This one is terribly skidded, and I don't care.
 You need to configure the SQL login's in all of the 
 php files in the lib/ directory.  Have fun.
+Also, you need the mysql php plugin. Enjoy figuring this out.
