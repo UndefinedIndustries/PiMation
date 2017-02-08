@@ -11,15 +11,6 @@
     - ADD SHUTDOWN COMMAND(PLAUSIBLE? ADD USER/PASS FIELD...)
     - FIND BUGS AND SQUISH
   */
-  session_start(); //STARTS SESSION
-    if(!isset($_COOKIE['admin'])){ //FIND LOGGED IN COOKIE
-      echo "Permission Denied";
-      header("refresh:5;url=../"); //IF NOT SET, RETURN TO INDEX
-    }
-    if($_SESSION['name']!=="elevated"){
-      echo "Permission Denied";
-      header("refresh:5;url=../");
-    }
 ?>
 
 
