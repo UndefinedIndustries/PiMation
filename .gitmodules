@@ -1,0 +1,3 @@
+[submodule "modules/sPrInkler"]
+	path = modules/sPrInkler
+	url = https://github.com/UndefinedIndustries/sPrInkler
