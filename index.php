@@ -8,7 +8,7 @@
 
      ?>
      <meta charset="utf-8">
-    <link href="https://gavinscodetest.tk/css/style.css" rel="stylesheet" type="text/css"></link>
+    <link href="https://gavinscodetest.tk/css/style.css?<?php echo $date ?>" rel="stylesheet" type="text/css"></link>
      <script src="https://gavinscodetest.tk/js/1jquery.js"></script>
      <script src="https://gavinscodetest.tk/js/sprinkler.js"></script>
      <title></title>
