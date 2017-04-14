@@ -4,11 +4,11 @@
   $a=0;
   foreach($files as $file){
     $name = exec("cat ".$file.".name.dat");
+    ++$a;
 ?>
-<br/>
-<br/>
-<a href="<?php echo $file ?>" style="
-text-decoration: none;color: #fff;font-family: Arial;font-size: 4em;
+<br>
+<a href="<?php echo $file ?>" class="w3-bar-item w3-button" style="
+text-decoration: none;
   ">&nbsp<?php echo $name ?></a>
 <?php
   }

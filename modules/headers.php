@@ -3,4 +3,4 @@
  <script src="https://gavinscodetest.tk/js/1jquery.js"></script>
  <script src="https://gavinscodetest.tk/js/sprinkler.js"></script>
 </head>
-<a href="/" style="float: left;text-decoration: none;color: #fff;font-family: Arial;font-size: 1em;position:absolute;">&nbspHome</a>
+<a href="/" style="float: left;text-decoration: none;color: #fff;font-family: Arial;font-size: 1em;">&nbspHome</a>
